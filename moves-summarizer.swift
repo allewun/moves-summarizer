@@ -2,7 +2,7 @@
 
 import Foundation
 
-let activities = ["walking", "transport", "underground", "ferry", "running", "bus", "airplane", "train", "boat"]
+let activities = ["walking", "transport", "underground", "ferry", "running", "bus", "airplane", "train", "boat", "car"]
 
 extension String {
     var lines: [String] {
